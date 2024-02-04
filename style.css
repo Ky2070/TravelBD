@@ -334,8 +334,7 @@ nav .fa-bars {
         padding-bottom: 10px;
     }
     .search-bar form button {
-        position: absolute;
-        bottom: 32%;
+        position: relative;
         left: 50%;
         transform: translate(-50%, 50%);
     }
